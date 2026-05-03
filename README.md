@@ -1,6 +1,3 @@
-
----
-
 ▶️ Cara pakai
 
 Mode interaktif (aman):
@@ -30,3 +27,5 @@ Rollback: kalau mount gagal, /home dikembalikan dari /home_backup.
 Opsi mount: noatime,nodiratime,nofail → cocok untuk SD (minim write & boot tetap lanjut).
 
 rsync flags: -aAXH menjaga permission, ACL, xattr, hardlink.
+
+---
